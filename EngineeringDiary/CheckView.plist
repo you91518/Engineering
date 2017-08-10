@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> 標線作業工程自主檢查表</key>
+	<dict>
+		<key>周圍設安全措施</key>
+		<string>例如：交通錐、連桿</string>
+		<key>是否派員交通維持</key>
+		<string>○○人</string>
+		<key>標繪位置是否正確</key>
+		<string>○○cm±○</string>
+		<key>標繪寬度是否正確</key>
+		<string>○○cm±○</string>
+		<key>標繪後顏色是否正確</key>
+		<string>例如：公路用黃色、純白色</string>
+		<key>標繪當天溫度、天氣狀況良好</key>
+		<string>例如：非雨天及路面最低溫度5°C、最高溫度40°C</string>
+		<key>瀝青混凝土面層是否完整</key>
+		<string>例如：無破損</string>
+		<key>路面清理</key>
+		<string>例如：無障礙物</string>
+	</dict>
+	<key>人行道鋪面工程自主檢查表</key>
+	<dict>
+		<key>140 kgf/cm2打底厚度</key>
+		<string>厚度○○cm±○○	</string>
+		<key>1:3水泥砂漿鋪設</key>
+		<string>厚度○○cm±○○	</string>
+		<key>人行步道面磚鋪設</key>
+		<string>厚度○○cm±○○</string>
+		<key>基礎底面夯實平整，壓實度</key>
+		<string>夯實平整、壓實度○％    	</string>
+		<key>底層清潔雜質，碎屑、突出物</key>
+		<string>例如：全部清除	</string>
+		<key>收邊磚尺寸:10*20*6cm*雙邊(深灰色)</key>
+		<string>例如：確實完整	</string>
+		<key>施作後填縫是否已完成</key>
+		<string>例如：用細砂緊密填縫完成	</string>
+		<key>施工後磚面是否平整</key>
+		<string>磚面平整高程差±○mm	</string>
+		<key>施工照片是否已歸檔</key>
+		<string>例如：照片已歸檔	</string>
+		<key>鋪面材料外觀是否有破損	</key>
+		<string>例如：無破損	</string>
+		<key>鋪面碎石級配夯實厚度</key>
+		<string>厚度○○cm±○○	</string>
+		<key>面磚尺寸:20*20(10)*6cm*4塊(淺灰色)、20*20*6cm*1塊(深灰色)</key>
+		<string>例如：一組尺寸是否正確	</string>
+		<key>點焊鋼絲網鋪設</key>
+		<string>￠○*○*○cm	</string>
+	</dict>
+	<key>升降機設備自主檢查表</key>
+	<dict>
+		<key>反緩降裝置</key>
+		<string>例如：量測反緩降裝置是否正常</string>
+		<key>噪音程度</key>
+		<string>規範要求：○○</string>
+		<key>安全鉗</key>
+		<string>例如：於超速調速機模擬跳脫後，於機械室洩壓測試</string>
+		<key>安全餘隙及距離</key>
+		<string>距離○○</string>
+		<key>材料及機電系統</key>
+		<string>廠牌：○○，型號：○○</string>
+		<key>超載保護</key>
+		<string>例如：測試負載超過110%時</string>
+		<key>超速調速機</key>
+		<string>例如：以模擬方式測試超速調速機</string>
+		<key>電力系統</key>
+		<string>幫浦馬達：○○
+電力系統：○○
+接地連續電阻：○○
+接地絕緣電阻：○○
+操作電壓：○○</string>
+		<key>電力設備及驅動系統</key>
+		<string>檢查油壓動力設備型式：○○</string>
+		<key>電梯門</key>
+		<string>電梯門拉(推)力：○○</string>
+	</dict>
+	<key>土方回填作業自主檢查表</key>
+	<dict>
+		<key>原路面</key>
+		<string>例如：清除.無淤積</string>
+		<key>各層填方滾壓</key>
+		<string>例如：壓實度合格需＞○％</string>
+		<key>回填土搬運</key>
+		<string>例如：隨時清除</string>
+		<key>回填土方時</key>
+		<string>例如：安全警示、派專人指揮交通</string>
+		<key>回填粒徑</key>
+		<string>○cm以下之粒料</string>
+		<key>場地是否清理乾淨</key>
+		<string>例如：清理完成</string>
+		<key>完成面高程確認</key>
+		<string>例如：依圖說○○規定（完成面水準儀檢測EL○○M）</string>
+		<key>工地密度試驗</key>
+		<string>例如：依設計圖說○規定(每○m3一次；壓實度95%)</string>
+		<key>工地積水</key>
+		<string>例如：無</string>
+		<key>挖土機旋轉、開挖時</key>
+		<string>例如：安全警示、派專人警戒</string>
+		<key>排水、抽水設備</key>
+		<string>例如：抽水機組準備</string>
+		<key>機具</key>
+		<string>例如：機具種類○○</string>
+		<key>滾壓面是否平順</key>
+		<string>高程○±○cm</string>
+		<key>篩分析</key>
+		<string>依設計圖說○規定(每○m3一次)</string>
+		<key>護欄</key>
+		<string>例如：復原</string>
+		<key>路線、坡度、高程、橫斷面是否分層填築</key>
+		<string>○CM為一層</string>
+		<key>高程、橫斷面</key>
+		<string>例如：依圖說○○規定（水準儀檢測EL：○○M）</string>
+	</dict>
+	<key>地磚施工自主檢查表</key>
+	<dict>
+		<key>剩料處理</key>
+		<string>例如：同一編號顏色磁磚集中</string>
+		<key>地坪清理</key>
+		<string>例如：無鬆脫突起水泥塊</string>
+		<key>地磚與壁磚對縫</key>
+		<string>例如：平直無交丁</string>
+		<key>室內鋪面平整度</key>
+		<string>高程○±○mm</string>
+		<key>抹縫完成面擦拭乾淨</key>
+		<string>例如：清潔乾淨</string>
+		<key>水泥砂漿乾拌</key>
+		<string>例如：確實攪拌混合</string>
+		<key>浴、廁洩水坡度</key>
+		<string>≦1/○</string>
+		<key>磁磚顏色及編號確認</key>
+		<string>磁磚顏色○○及編號○○</string>
+		<key>鋪貼完成隔天抹縫飽漿</key>
+		<string>例如：無空洞或不足</string>
+		<key>鋪貼確實</key>
+		<string>例如：確實輕敲無空心</string>
+	</dict>
+	<key>天花板施工自主檢查表</key>
+	<dict>
+		<key>L型之收邊壁條</key>
+		<string>例如：順牆面水平線固定</string>
+		<key>主架第1支吊筋距牆</key>
+		<string>＜○○CM</string>
+		<key>吊筋固定</key>
+		<string>例如：L角鐵固定於RC天花上</string>
+		<key>吊筋要求</key>
+		<string>＃○鍍鋅鐵絲</string>
+		<key>吊筋間距</key>
+		<string>＜○○m</string>
+		<key>四周牆面粉刷</key>
+		<string>○m2高程差＜○mm</string>
+		<key>天花吊筋</key>
+		<string>例如：不得供管道安裝使用</string>
+		<key>天花板材質</key>
+		<string>例如：防水、防霉檢驗報告</string>
+		<key>接合外觀</key>
+		<string>例如：無接縫</string>
+		<key>支架吊筋均</key>
+		<string>例如：應作防銹處理或鍍鋅處理</string>
+		<key>收邊料外觀</key>
+		<string>例如：一直線</string>
+		<key>收邊斜接合方式</key>
+		<string>轉角採○度截角</string>
+		<key>施工基準線</key>
+		<string>契約訂定：○○</string>
+		<key>材料外觀</key>
+		<string>例如：無破損、裂紋等瑕疵</string>
+		<key>材料管理</key>
+		<string>角材墊高○○CM</string>
+		<key>燈具孔洞穿過面板</key>
+		<string>例如：面板正中間預留小洞</string>
+		<key>高度放樣</key>
+		<string>施工圖○○</string>
+	</dict>
+	<key>安全圍籬施工自主檢查表</key>
+	<dict>
+		<key>勾件安裝位</key>
+		<string>規定○○</string>
+		<key>圍籬高度</key>
+		<string>○cm±○</string>
+		<key>安全圍籬施作位置</key>
+		<string>契約圖說○號：○○</string>
+		<key>安全設施</key>
+		<string>例如：備妥</string>
+		<key>柱腳深度</key>
+		<string>○cm±○</string>
+		<key>橫向加強角鋼</key>
+		<string>例如：牢固</string>
+		<key>油漆</key>
+		<string>規定塗刷○○</string>
+		<key>立柱間距</key>
+		<string>○cm±○/乙支</string>
+		<key>角鋼材質厚度</key>
+		<string>○mm±○</string>
+		<key>設置防溢座</key>
+		<string>契約圖說○號規定設置防溢座</string>
+		<key>警示燈間距</key>
+		<string>○cm±○/乙只</string>
+		<key>鋁板材質厚度</key>
+		<string>○mm±○</string>
+	</dict>
+	<key>帷幕工程自主檢查表</key>
+	<dict>
+		<key>使用螺栓材質</key>
+		<string>例如：不銹鋼</string>
+		<key>單元接縫同平面平整度誤差</key>
+		<string>±○㎜</string>
+		<key>固定窗水密性測試</key>
+		<string>○㎏/㎡壓力十分鐘無漏</string>
+		<key>水平與高低容許誤差</key>
+		<string>±○㎜</string>
+		<key>玻璃規格</key>
+		<string>○㎜全反射玻璃</string>
+		<key>螺栓固定處防水處理</key>
+		<string>例如：以室外型環氧樹脂覆蓋</string>
+		<key>開窗框料</key>
+		<string>例如：隱藏式</string>
+		<key>開窗水密性測試</key>
+		<string>○㎏/㎡壓力十分鐘無漏</string>
+		<key>預埋鐵件安裝</key>
+		<string>例如：混凝土澆置前安裝</string>
+	</dict>
+	<key>懸臂式擋土牆自主檢查表</key>
+	<dict>
+		<key>10cmψ洩水管</key>
+		<string>例如：@2m2一處，交錯排列</string>
+		<key>基礎板開挖</key>
+		<string>深度○cm±○mm</string>
+		<key>擋土牆基礎鋼筋組立間距</key>
+		<string>#○@○cm(H=○,○ m)</string>
+		<key>擋土牆身鋼筋組立間距</key>
+		<string>#○@○cm(H=○,○ m)</string>
+		<key>擋土牆點筋組立間距</key>
+		<string>#○@○cm(H=○,○ m)</string>
+		<key>模板組立情況</key>
+		<string>例如：穩固、不晃動</string>
+		<key>牆頂寬度</key>
+		<string>○cm±○mm</string>
+		<key>鋼筋保護層</key>
+		<string>牆身≧○cm、基礎≧○cm</string>
+		<key>鋼筋尺寸</key>
+		<string>鋼筋尺寸</string>
+		<key>鋼筋組立情況</key>
+		<string>以＃○鐵絲○步綁紮且無鬆動</string>
+	</dict>
+	<key>排水溝作業自主檢查表</key>
+	<dict>
+		<key>5cmψ洩水管</key>
+		<string>@○m○處</string>
+		<key>尺寸</key>
+		<string>W(溝寬)=○cm、H(溝深)=○cm、t(牆厚)=○cm</string>
+		<key>模板組立情況</key>
+		<string>例如：穩固、不晃動</string>
+		<key>鋼筋組立情況</key>
+		<string>例如：鐵絲綁紮牢固，錯排，搭接處避免在同一斷面上</string>
+		<key>鋼筋組立間距</key>
+		<string>＃○@○cm(溝身內側)
+＃○@○cm (溝身外側)
+＃○@○cm (溝頂)
+＃○@○cm (溝底)</string>
+		<key>鍍鋅格柵蓋</key>
+		<string>@○m○處</string>
+		<key>點筋組立間距</key>
+		<string>＃○@○cm (溝身)
+＃○@○cm (溝頂、溝底)</string>
+	</dict>
+	<key>排風機設備自主檢查表</key>
+	<dict>
+		<key>設計風量	</key>
+		<string>風量：○○ 	</string>
+		<key>風機之外殼	</key>
+		<string>例如：應無鏽蝕情形	</string>
+		<key>風機之安裝	</key>
+		<string>例如：調整水平、風機主軸為基準	</string>
+		<key>風機之葉輪	</key>
+		<string>規範：○○	</string>
+		<key>風機型式	</key>
+		<string>型錄：○○	</string>
+		<key>風機外表之油漆	</key>
+		<string>例如：應完整、無鏽蝕情形	</string>
+		<key>風機減震機座外表之油漆	</key>
+		<string>例如：無鏽蝕情形	</string>
+		<key>風機馬達材質	</key>
+		<string>規範：○○	</string>
+	</dict>
+	<key>接地安裝自主檢查表</key>
+	<dict>
+		<key>接地棒外觀	</key>
+		<string>例如：不得塗漆或絕緣物	</string>
+		<key>接地線伸經大底止水措施	</key>
+		<string>大底厚度1/○處焊接止水板	</string>
+		<key>接地線安裝	</key>
+		<string>例如：不能與鋼筋直接接觸	</string>
+		<key>接地線綁紮	</key>
+		<string>例如：確實焊牢	</string>
+		<key>接地銅棒規格	</key>
+		<string>例如：3/4〞Φ*○′銅棒</string>
+		<key>接地銅線線徑	</key>
+		<string>○㎜以上	</string>
+		<key>避雷針接地棒埋入深度	</key>
+		<string>≧○㎝	</string>
+		<key>避雷針接地棒焊接方式	</key>
+		<string>例如：火泥焊接	</string>
+		<key>避雷針接地電阻	</key>
+		<string>≦○Ω	</string>
+		<key>電力、電信接地電阻	</key>
+		<string>電力≦○Ω，電信≦○Ω	</string>
+	</dict>
+	<key>放樣及整地排水自主檢查表</key>
+	<dict>
+		<key>卡車出場洗輪胎</key>
+		<string>例如：乾淨</string>
+		<key>挖土機數量(部)</key>
+		<string>○部</string>
+		<key>排水管埋設</key>
+		<string>1.小排水溝接○&quot;PVC管○處
+2.大排水溝接○&quot;PVC管○處</string>
+		<key>測量儀器</key>
+		<string>精度≦1/○
+水準閉合差≦○√○kmm</string>
+		<key>臨時擋土設施</key>
+		<string>契約規定：○</string>
+		<key>計算數量</key>
+		<string>計算小數第○位</string>
+		<key>車斗蓋帆布</key>
+		<string>例如：蓋好繫緊</string>
+		<key>運土車數量(部)</key>
+		<string>○部</string>
+		<key>運輸路線規劃</key>
+		<string>計畫書規定：○</string>
+		<key>餘方處理</key>
+		<string>例如：合法土資場</string>
+		<key>高程是否符合設計</key>
+		<string>核對設計高程±○cm</string>
+	</dict>
+	<key>柱鋼筋自主檢查表</key>
+	<dict>
+		<key>主筋箍筋繫筋固定	</key>
+		<string>#○鐵絲綁紥無鬆動</string>
+		<key>主鋼筋保護層</key>
+		<string>○cm</string>
+		<key>主鋼筋號數與支數X、Y向	</key>
+		<string>#○x○支、#○y○支</string>
+		<key>主鋼筋間距，X向、Y向	
+
+</key>
+		<string>X○cm、Y○cm</string>
+		<key>搭接長度、位置	</key>
+		<string>○cm、○cm</string>
+		<key>柱尺寸（XxY）	</key>
+		<string>○x○cm</string>
+		<key>樑柱接頭箍筋預先放置	</key>
+		<string>  個</string>
+		<key>箍筋彎鉤角度長度	</key>
+		<string>○’x○cm</string>
+		<key>箍筋繫筋	</key>
+		<string>○x○</string>
+		<key>箍筋號數、閒距（中間）</key>
+		<string>#○-@○</string>
+		<key>箍筋號數、閒距（兩端）</key>
+		<string>#○-@○</string>
+		<key>繫筋號數與支數	</key>
+		<string>#○-○支</string>
+		<key>鋼筋拉力試驗	</key>
+		<string>Fy=○kg/c㎡</string>
+		<key>鋼筋有無龜裂	</key>
+		<string>例如：無龜裂</string>
+		<key>鋼筋潔淨度	</key>
+		<string>例如：清潔</string>
+		<key>錨定標準彎鉤長度	</key>
+		<string>○cm</string>
+		<key>錨定總長度	</key>
+		<string>○cm</string>
+		<key>錨定錨定位置	</key>
+		<string>例如：地樑內</string>
+		<key>預埋物固定	</key>
+		<string>固定妥當</string>
+		<key>預留水管與鋼筋距離	</key>
+		<string>○cm以上</string>
+	</dict>
+	<key>植栽工程自主檢查表</key>
+	<dict>
+		<key>土壤改良</key>
+		<string>圖說規定：○</string>
+		<key>基肥</key>
+		<string>○kg/m2</string>
+		<key>外觀</key>
+		<string>例如：整株完整</string>
+		<key>支撐架數量</key>
+		<string>每株3支杉木尺寸○○
+(經防腐處理) </string>
+		<key>放樣位置</key>
+		<string>圖說○號，位置：○○</string>
+		<key>有無病蟲害</key>
+		<string>契約規定：○</string>
+		<key>植栽完成後養護</key>
+		<string>例如：充分澆水</string>
+		<key>樹穴底排水</key>
+		<string>例如：排水良好</string>
+		<key>樹穴底栽培介質</key>
+		<string>例如：栽培土</string>
+		<key>樹穴深度及寬度</key>
+		<string>深度＝根球直徑+○cm
+直徑＝根球直徑○倍○cm</string>
+		<key>樹穴雜物</key>
+		<string>例如：清除雜物</string>
+		<key>移植植栽間隔時間</key>
+		<string>例如：苗木掘起至施工種植完畢， 不超過2日為原則</string>
+		<key>種植種類、規格(依圖說規定)</key>
+		<string>種類○米高徑＝○cm、高度＝○cm、冠幅＝○cm</string>
+		<key>稻草蓆包裹</key>
+		<string>例如：裹緊無破損</string>
+		<key>苗木</key>
+		<string>垂直度：○○</string>
+	</dict>
+	<key>樑鋼筋自主檢查表</key>
+	<dict>
+		<key>中央、兩端箍筋號數間距	</key>
+		<string>中央#○＠○、兩端#○＠○</string>
+		<key>中央上、下層主筋號數根數	</key>
+		<string>上○-#○、下○-#○</string>
+		<key>主筋搭接長度與位置	</key>
+		<string>＞○cm</string>
+		<key>主筋與箍筋接頭固定</key>
+		<string>&quot;皆以#○鐵絲○步綁紥且
+無鬆動&quot;</string>
+		<key>右端上、下層主筋號數根數	</key>
+		<string>上○-#○、下○-#○</string>
+		<key>左端上、下層主筋號數根數	</key>
+		<string>上○-#○、下○-#○</string>
+		<key>樑腰筋號數及數量	</key>
+		<string>左右各○#○</string>
+		<key>水電管穿樑補強	</key>
+		<string>&quot;斜交補強筋○×○-#○
+縱向補強筋○×○-#○&quot;</string>
+		<key>箍筋保護層厚度	</key>
+		<string>○CM±○</string>
+		<key>鋼筋保護層	</key>
+		<string>鋼筋保護層	</string>
+		<key>鋼筋拉力試驗	</key>
+		<string>Fy＞○○ kg/c㎡</string>
+		<key>鋼筋有無龜裂	</key>
+		<string>例如：無龜裂</string>
+		<key>鋼筋潔淨度	</key>
+		<string>例如：清潔</string>
+		<key>預埋物固定	</key>
+		<string>鋼筋中間固定妥當</string>
+	</dict>
+	<key>樓板鋼筋自主檢查表</key>
+	<dict>
+		<key>墊塊間距	</key>
+		<string>＜○cm±○</string>
+		<key>搭接方式	</key>
+		<string>例如：錯接……</string>
+		<key>版厚（cm）	</key>
+		<string>○cm±○</string>
+		<key>版筋保護層厚度	</key>
+		<string>＞○cm±○</string>
+		<key>版與版交接處	</key>
+		<string>#○筋○cm</string>
+		<key>版面開口45°斜角補強筋	</key>
+		<string>每一角長○ｃｍ○支</string>
+		<key>短邊央部上層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>短邊央部下層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>短邊端部下層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>端部上層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>鋼筋拉力試驗	</key>
+		<string>Fy=○kg/c㎡</string>
+		<key>鋼筋潔淨度	</key>
+		<string>鋼筋表面無污染</string>
+		<key>鋼筋綁紥固定	</key>
+		<string>&quot;#○鐵絲○步綁紥且
+無鬆動&quot;</string>
+		<key>長端央部上層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>長端央部下層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>長邊端部下層筋號數間距	</key>
+		<string>#○＠○±○ </string>
+		<key>預埋管線固定	</key>
+		<string>例如：鋼筋中間固定妥當</string>
+	</dict>
+	<key>模板工程自主檢查表</key>
+	<dict>
+		<key>伸縮縫設置</key>
+		<string>○公尺設置一處</string>
+		<key>各項預埋物</key>
+		<string>例如：已完成裝配固定…</string>
+		<key>回撐</key>
+		<string>○天</string>
+		<key>大跨距樑底預拱</key>
+		<string>例如：1/○…</string>
+		<key>支撐地面</key>
+		<string>無沉陷之虞</string>
+		<key>支撐間距</key>
+		<string>○○公分</string>
+		<key>放樣測量基準點、放樣位置</key>
+		<string>例如：無移動…</string>
+		<key>斜撐裝設止滑榫</key>
+		<string>例如：逐步設置…</string>
+		<key>施工接縫榫接設置</key>
+		<string>○○設置</string>
+		<key>柱底設置清潔孔</key>
+		<string>○○設置</string>
+		<key>模板種類</key>
+		<string>例如：普通、清水模…</string>
+		<key>模板面</key>
+		<string>例如：無扭曲、變形、破損…</string>
+		<key>模版組立層數</key>
+		<string>○層模</string>
+		<key>模版組立平直度</key>
+		<string>例如：平直…</string>
+		<key>橫向牽條</key>
+		<string>例如：逐步設置…</string>
+		<key>止水帶設置</key>
+		<string>○球、穩固、無穿孔</string>
+		<key>澆置前異物雜物清洗</key>
+		<string>例如：清洗完成…</string>
+		<key>窗台預留開口</key>
+		<string>○○設置</string>
+	</dict>
+	<key>水管系統施工安裝自主檢查表</key>
+	<dict>
+		<key>各排水管坡度	</key>
+		<string>施工圖○號：○○	</string>
+		<key>吊管架(橫向管線)	</key>
+		<string>管徑○±○mm	</string>
+		<key>固定架(給水系統)	</key>
+		<string>例如：給水、排水,污水系統,通氣、彎管處及分歧處設置	</string>
+		<key>屋外排水管	</key>
+		<string>施工圖○號：○○	</string>
+		<key>屋頂通氣管	</key>
+		<string>施工圖○號：○○	</string>
+		<key>屋頂過牆管＞泛水高	</key>
+		<string>泛水高度○cm＜過牆管 ○cm	</string>
+		<key>排水材料	</key>
+		<string>廠牌○○、規格○○	</string>
+		<key>揚水泵浦組、沉水試揚水泵浦組（交替運轉）	</key>
+		<string>&quot;廠牌○○
+給水耐壓測試○KG/1HR&quot;	</string>
+		<key>給水材料	</key>
+		<string>廠牌○○、規格○○	</string>
+		<key>過牆（版）管預埋	</key>
+		<string>施工圖○○、位置○○	</string>
+		<key>配管	</key>
+		<string>位置：○○,尺寸：○○	</string>
+		<key>配管是否在雙層鋼筋內?	</key>
+		<string>施工圖○號：○○	</string>
+		<key>電梯機坑廢水泵浦組、沉水式廢水泵浦組（交替運轉）	</key>
+		<string>廠牌○○ 	</string>
+	</dict>
+	<key>泯石子自主檢查表</key>
+	<dict>
+		<key>完成面</key>
+		<string>例如：完成面石子平均分布</string>
+		<key>底層處理</key>
+		<string>例如：全面澆水</string>
+		<key>木條安裝高度</key>
+		<string>例如：與洗石子面同高</string>
+		<key>木隔條拆除</key>
+		<string>例如：收縮後拆除徹底</string>
+		<key>水泥砂漿壓實抹平</key>
+		<string>＜○分鐘</string>
+		<key>灰誌與粉刷面誤差</key>
+		<string>≦○㎜</string>
+		<key>石子配比</key>
+		<string>經送審核可樣版○○</string>
+		<key>粉刷灰誌間距</key>
+		<string>≦○㎝</string>
+		<key>粉刷面處理</key>
+		<string>例如：除去木片鐵絲水泥渣</string>
+		<key>設置墨線</key>
+		<string>水平＜1/○、垂直＜1/○</string>
+		<key>門窗填縫處理</key>
+		<string>確實填滿</string>
+		<key>面層施做使石子露出</key>
+		<string>例如：初凝時以噴霧器噴洗</string>
+	</dict>
+	<key>混凝土工程自主檢查表</key>
+	<dict>
+		<key>使用振動器充分搗實</key>
+		<string>例如：配置○台震動機…</string>
+		<key>坍度</key>
+		<string>○公分±○公分</string>
+		<key>完成面</key>
+		<string>例如：無蜂窩、平整…</string>
+		<key>施工縫設置位置</key>
+		<string>例如：應力小○○…</string>
+		<key>氯離子</key>
+		<string>＜○kg/m3</string>
+		<key>混凝土運送時間</key>
+		<string>＜○分</string>
+		<key>澆置中斷時間</key>
+		<string>＜○分</string>
+		<key>澆置中模板變形爆模檢查</key>
+		<string>例如：指派專人隨時檢查…</string>
+		<key>澆置前模板支撐穩固檢查</key>
+		<string>例如：指派專人檢查…</string>
+		<key>澆置前鋼筋保護層檢查</key>
+		<string>○公分±○</string>
+		<key>澆置前雜物清除</key>
+		<string>例如：清除雜物、清潔…</string>
+		<key>澆置過程不可任意加水</key>
+		<string>例如：管制預拌車、壓送車…</string>
+		<key>澆置順序、分層澆置</key>
+		<string>例如：澆置計畫書…</string>
+		<key>澆置高程標誌設置</key>
+		<string>○公分±○一處</string>
+		<key>輸送管使用適當隔墊物</key>
+		<string>例如：設置隔墊物…</string>
+		<key>養護</key>
+		<string>例如：濕麻布每日澆水○次…</string>
+	</dict>
+	<key>瀝青混凝土工程自主檢查表 </key>
+	<dict>
+		<key>原有AC路面是否已刨除</key>
+		<string>刨除○cm±○</string>
+		<key>取樣厚度、含油量、壓實度</key>
+		<string>每○㎡鑽取一個</string>
+		<key>周圍設安全措施</key>
+		<string>○m@個</string>
+		<key>壓實滾壓夯實</key>
+		<string>例如：壓路機施工</string>
+		<key>平整度</key>
+		<string>3m內任何一點高低差＜○公分</string>
+		<key>派員交通維持</key>
+		<string>○○人</string>
+		<key>瀝青混凝土倒入鋪築機時溫度</key>
+		<string>例如：120°C以上</string>
+		<key>瀝青混凝土鋪築前基礎層查驗</key>
+		<string>洩水坡度○、平整度：高程○±○</string>
+		<key>瀝青混合粒料是否分離</key>
+		<string>例如：目視判斷</string>
+		<key>瀝青透層（或黏層）灑佈置</key>
+		<string>例如：0.25~4.0  L/m2</string>
+		<key>瀝青鋪築施工機具</key>
+		<string>鋪築機、壓路機應</string>
+		<key>素地檢查是否平整</key>
+		<string>例如：無坑洞、裂縫</string>
+		<key>舖築當天天氣、溫度狀況良好</key>
+		<string>例如：非雨天及氣溫≧10°C</string>
+		<key>路面障礙物移除</key>
+		<string>例如：無障礙物</string>
+		<key>鋪設密級配瀝青混凝土面層</key>
+		<string>t=○cm±○</string>
+		<key>鋪設碎石級配底層及路床滾壓</key>
+		<string>例如：鋪設t=20cm及路床滾壓</string>
+		<key>鋪設粗級配瀝青混凝土底層</key>
+		<string>t=○cm±○</string>
+	</dict>
+	<key>照明燈具開關及插座施工安裝自主檢查表</key>
+	<dict>
+		<key> 安裝數量	</key>
+		<string>數量:○	</string>
+		<key> 開關安裝是否方正整齊	</key>
+		<string>例如：離地面1.2~1.5公尺	</string>
+		<key>不使用之出線盒須	</key>
+		<string>例如：以盲蓋覆蓋	</string>
+		<key>出口標示燈、緊急照明燈、避難方向指示燈	</key>
+		<string>&quot;例如：110V，10W附鎳鎘電池及
+充電器且維持90分鐘以上&quot;	</string>
+		<key>插座、開關高度位置	</key>
+		<string>開關○㎝±○、插座約○㎝±○	</string>
+		<key>照明設備之接地	</key>
+		<string>例如：接地	</string>
+		<key>照明電纜、電線之顏色與線徑	</key>
+		<string>顏色：○、線徑：○	</string>
+		<key>燈具、開關、插座外觀	</key>
+		<string>例如：目視無損壞	</string>
+		<key>燈具安裝	</key>
+		<string>例如：牢固、無晃動	</string>
+		<key>燈具廠牌、類別、規格電壓	</key>
+		<string>&quot;廠牌：○、型號：○、
+規格：○、電壓：○&quot;	</string>
+		<key>緊急照明系統之運作	</key>
+		<string>例如：TRIP測試	</string>
+		<key>開關、廠牌、規格、電壓電流	</key>
+		<string>&quot;廠牌：○、電流：○、
+規格：○、電壓：○&quot;	</string>
+		<key>開關插座安裝	</key>
+		<string>例如：方正 整齊</string>
+	</dict>
+	<key>牆鋼筋自主檢查表</key>
+	<dict>
+		<key>保護層	</key>
+		<string>保護層	</string>
+		<key>垂直鋼筋號數、間距	</key>
+		<string>#○-@○	</string>
+		<key>寬止筋號數、間距	</key>
+		<string>#○-@○	</string>
+		<key>水平鋼筋號數、間距</key>
+		<string>#○-@○	</string>
+		<key>水泥墊塊或塑膠墊塊間距	</key>
+		<string>＜○cm	</string>
+		<key>牆面開口45°斜角補強筋	</key>
+		<string>每一角○cm○支	</string>
+		<key>鋼筋清潔	</key>
+		<string>例如：清潔	</string>
+		<key>鋼筋綁紮	</key>
+		<string>＃○鐵絲○步綁紮無鬆動	</string>
+		<key>鋼筋錯接	</key>
+		<string>例如：錯接	</string>
+	</dict>
+	<key>發電機設備自主檢查表</key>
+	<dict>
+		<key>引擎廠牌	</key>
+		<string>契約規定：○○ 	</string>
+		<key>斷路器	</key>
+		<string>例如：機械及電氣聯鎖壓能	</string>
+		<key>發電機安裝完妥</key>
+		<string>例如：須裝置於混凝土基座土，並裝置避震器或避震墊片、      配件消音器排煙管、油槽、蓄電池、充電機、排煙管伸出屋外、管口須連接彎頭向下防上雨水浸入、發電機組須接接地	</string>
+		<key>發電機組在工廠試車	</key>
+		<string>契約規定：○○	</string>
+		<key>發電機組安裝試車</key>
+		<string>&quot;例如：冷卻系統冷卻水須充足、
+電壓：○V、電流○I
+自動起動控制規定：○&quot;	
+
+</string>
+		<key>自動切換開關	</key>
+		<string>斷路器規格：○○	</string>
+		<key>送審之發電機組	</key>
+		<string>規範：○○	</string>
+	</dict>
+	<key>磁磚工程施工作業自主檢查表</key>
+	<dict>
+		<key>勾縫寬度</key>
+		<string>例如：3mm±1mm</string>
+		<key>完成面</key>
+		<string>例如：任意3m內許可差不得大於±3mm</string>
+		<key>工地溫度</key>
+		<string>例如：＞10℃、…</string>
+		<key>拉拔實驗</key>
+		<string>例如：＜10kgf/m2、…</string>
+		<key>放樣</key>
+		<string>依契約圖說○○</string>
+		<key>有無空心現象</key>
+		<string>例如：輕敲磁磚</string>
+		<key>水電</key>
+		<string>例如：開口切割處應切齊</string>
+		<key>磁磚種類</key>
+		<string>廠牌○○、規格○○ </string>
+		<key>磁磚鋪貼方式</key>
+		<string>依契約圖說○○方式</string>
+		<key>粉刷面平整、養護時間</key>
+		<string>例如：水平尺、養護：○小時</string>
+		<key>角隅收頭</key>
+		<string>例如：垂直整齊</string>
+		<key>黏著劑及填縫劑</key>
+		<string>廠牌○○、規格○○</string>
+	</dict>
+	<key>空調工程自主檢查表</key>
+	<dict>
+		<key>例如：完整	</key>
+		<string>施工圖○號，安裝位置○	</string>
+		<key>出、回風口位置、尺寸	</key>
+		<string>施工圖○號，位置○、尺寸○	</string>
+		<key>各樓層之配電箱位置	</key>
+		<string>施工圖○號，位置○○	</string>
+		<key>各樓層之風管位置、尺寸	</key>
+		<string>施工圖○號，位置○、尺寸○           	</string>
+		<key>室內各出線口位置	</key>
+		<string>施工圖○號，位置○○           	</string>
+		<key>施工圖○號，位置○○	</key>
+		<string>管徑○mm、管厚○mm	</string>
+		<key>管路試壓	</key>
+		<string>例如：以加壓幫浦試壓	</string>
+		<key>設備型號	</key>
+		<string>廠牌○○、型號○○	</string>
+		<key>設備外觀	</key>
+		<string>例如：完整	</string>
+		<key>運轉時壓力是否正常	</key>
+		<string>例如：檢查設備管路有無洩漏	</string>
+		<key>配管之保溫	</key>
+		<string>廠牌○、規格○、尺寸○○	</string>
+	</dict>
+	<key>粉刷工程自主檢查表</key>
+	<dict>
+		<key>不可有起砂或龜裂</key>
+		<string>無起砂或龜裂</string>
+		<key>完成的粉刷</key>
+		<string>例如：每面6m2內誤差小於3mm</string>
+		<key>完成面</key>
+		<string>例如：無脫層及起砂現象</string>
+		<key>收頭及轉角緣條</key>
+		<string>例如：使用PVC條</string>
+		<key>材料管理</key>
+		<string>例如：原裝運送、置於墊板上保持乾燥</string>
+		<key>水平、基準線，樑柱邊垂直線</key>
+		<string>水平&lt; ± ○ cm
+垂直&lt; ± ○ cm</string>
+		<key>水泥與砂之拌和比例</key>
+		<string>1:○</string>
+		<key>水電埋入管固定後不得突出牆面(含混築)</key>
+		<string>例如：水電管路不得凸出牆面、放樣管線出口位置</string>
+		<key>水電配管打鑿</key>
+		<string>先以電鋸縫後打鑿</string>
+		<key>灰誌貼設間隔之檢查</key>
+		<string>每隔○M±○施做一處</string>
+		<key>牆面粉刷厚度超過3cm</key>
+		<string>應分○天分○層補平</string>
+		<key>砂漿不可一次拌合過量，避免初凝</key>
+		<string>拌合後不可超過○小時</string>
+		<key>粉光面</key>
+		<string>例如：分二度施工表面平整且顏色一致</string>
+		<key>粉刷底層前一日牆面應濕潤</key>
+		<string>牆面需全部潮濕</string>
+		<key>粉刷底層前粉刷面清除乾淨</key>
+		<string>粉刷面無雜物         </string>
+		<key>粉刷面如為R.C.牆須先抹一層純水泥漿</key>
+		<string>○-○mm之間</string>
+		<key>鐵製開關箱背面附鐵絲網補強</key>
+		<string>開關箱附鐵絲網補強</string>
+	</dict>
+	<key>級配回填工程自主檢查表</key>
+	<dict>
+		<key>作業時是否派員交通指揮</key>
+		<string>例如：派人指揮</string>
+		<key>保護</key>
+		<string>灑水保養</string>
+		<key>厚度</key>
+		<string>任何一點之厚度≧15cm</string>
+		<key>撒舖材料</key>
+		<string>碎石級配，厚度:○cm</string>
+		<key>施作前填縫是否已完成</key>
+		<string>例如：已完成填縫</string>
+		<key>施工後現地是否平整</key>
+		<string>高程差±○mm</string>
+		<key>滾壓</key>
+		<string>○公噸以上三輪壓路機</string>
+		<key>級配粒徑檢查</key>
+		<string>直徑○○㎝以下</string>
+		<key>路基整理</key>
+		<string>例如：草木及雜物清除</string>
+		<key>頂面平整度</key>
+		<string>以3m直規沿平行或垂直於道路中心線之方向檢測，任何一點之高低差均不得超過±○㎝</string>
+		<key>預定鋪設厚度確實</key>
+		<string>○○㎝±○○</string>
+	</dict>
+	<key>衛生器具施工安裝自主檢查表</key>
+	<dict>
+		<key>器具固定</key>
+		<string>原廠：○○	</string>
+		<key>器具安裝	</key>
+		<string>水平尺：＜1/○○	</string>
+		<key>器具測試	</key>
+		<string>例如：供水及排水須順暢無阻滯現象	</string>
+		<key>器具高程	</key>
+		<string>&quot;1.依契約規範○○
+2.依業主指示○○
+3.專業廠商○○&quot;	</string>
+		<key>安裝前確認	</key>
+		<string>管徑及尺寸：○○	</string>
+		<key>材料廠牌、型式規定</key>
+		<string>廠牌○○、型號○○	</string>
+		<key>衛生器具安裝方式	</key>
+		<string>專業廠商：○○方式	</string>
+	</dict>
+	<key>路燈工程自主檢查表</key>
+	<dict>
+		<key>不銹鋼開關箱(屋外型)</key>
+		<string>設置○○</string>
+		<key>外觀是否良好</key>
+		<string>例如：完整無損</string>
+		<key>接地線</key>
+		<string>設置○○</string>
+		<key>是否有接觸不良</key>
+		<string>例如：正常無誤</string>
+		<key>材料儲存</key>
+		<string>契約規定○○</string>
+		<key>燈具數量、規格</key>
+		<string>○○</string>
+		<key>燈具規格</key>
+		<string>複金屬燈 ○W*1 ○V含燈具 燈泡 高功率安定器 燈桿 H=○M</string>
+		<key>管材尺寸、規格</key>
+		<string>PVC管○mm*○m/m</string>
+		<key>管線、燈座位置</key>
+		<string>燈座間距約○m(依現況調整)</string>
+		<key>管線預埋是否完成</key>
+		<string>例如：確實完成</string>
+		<key>線路規格</key>
+		<string>PEX 電纜 1/C ○mm/mm
+PEX 電纜 2/C ○mm/mm
+PVC電線1/C ○mm/mm</string>
+		<key>螺栓設置</key>
+		<string>∮○螺栓○支</string>
+		<key>運轉功能是否正常</key>
+		<string>例如：正常全亮</string>
+		<key>開挖位置放樣</key>
+		<string>詳細計圖○：○○</string>
+	</dict>
+	<key>路緣石工程自主檢查表</key>
+	<dict>
+		<key>基礎開挖</key>
+		<string>契約規定：○○</string>
+		<key>測量放樣</key>
+		<string>契約圖說○號，位置：○、高程：○、打樁記號：○</string>
+		<key>牢固</key>
+		<string>例如：不晃動</string>
+		<key>緣石飾面</key>
+		<string>H○*W○cm、表面粉光處理</string>
+		<key>路緣石尺寸</key>
+		<string>○型(○×○×○)</string>
+		<key>路緣石接縫</key>
+		<string>1：○水泥砂漿填縫</string>
+		<key>鋪築界面</key>
+		<string>基座墊○cm厚1：○水泥砂漿</string>
+		<key>頂面平整度</key>
+		<string>例如：高程差±○mm</string>
+		<key>預鑄緣石(含鍍鋅進水柵)</key>
+		<string>H:○cm、進水柵：L○cm*H○mm</string>
+		<key>預鑄緣石安裝</key>
+		<string>H：○cm、緣石間之高低及左右差均不得超過○mm</string>
+	</dict>
+	<key>連續壁施工自主檢查表</key>
+	<dict>
+		<key>導溝模板</key>
+		<string>水平，垂直，導溝牆厚○cm</string>
+		<key>導溝混凝土澆注</key>
+		<string>○kgf/cm2</string>
+		<key>導溝鋼筋</key>
+		<string>#○@○cm</string>
+		<key>導溝開挖深度及寬度</key>
+		<string>深度≧○cm原土層，寬度○cm</string>
+		<key>挖掘中含砂量</key>
+		<string>&lt;○%</string>
+		<key>挖掘中穩定液酸鹼值檢測(PH) </key>
+		<string>例如：PH試紙7~11.5</string>
+		<key>比重試驗挖掘中</key>
+		<string>○</string>
+		<key>比重試驗澆置前</key>
+		<string>○</string>
+		<key>混凝土坍度</key>
+		<string>○CM±○5CM</string>
+		<key>混凝土強度</key>
+		<string>○kgf/cm2(水中混凝土)</string>
+		<key>澆置前含砂量</key>
+		<string>&lt;○%</string>
+		<key>澆置前穩定液酸鹼值檢測(PH) </key>
+		<string>例如：PH試紙7~11.5</string>
+		<key>澆置紀錄</key>
+		<string>特密管深度○M，澆置置入深度保持○M</string>
+		<key>穩定液面高度控制</key>
+		<string>例如：高出地下水位1m以上</string>
+		<key>連續壁開挖深度</key>
+		<string>深度≧○M，寬度≧○cm超音波檢測</string>
+		<key>鋼筋籠主筋查驗</key>
+		<string>#○@○CM</string>
+		<key>鋼筋籠剪力筋查驗</key>
+		<string>#○@○CM(H)，#○@○CM(V)</string>
+		<key>鋼筋籠橫筋查驗</key>
+		<string>#○@○CM</string>
+		<key>鋼筋籠焊點查驗</key>
+		<string>牢固，每間隔○節點一處</string>
+		<key>鋼筋籠護耳查驗</key>
+		<string> (H)○M， (V)○M</string>
+		<key>鋼筋籠鋼筋搭接查驗</key>
+		<string>#○&lt;○M，#○&lt;○M</string>
+		<key>鋼筋籠預留鋼筋長度查驗</key>
+		<string>≧○CM </string>
+		<key>開挖後超音波檢測</key>
+		<string>垂直度1/○以下</string>
+		<key>黏滯性挖掘中</key>
+		<string>新液○秒，使用中○秒</string>
+		<key>黏滯性澆置前</key>
+		<string>新液○秒，使用中○秒</string>
+	</dict>
+	<key>避雷針設備自主檢查表</key>
+	<dict>
+		<key>安裝位置	</key>
+		<string>安裝位置：○○</string>
+		<key>設備外觀	</key>
+		<string>例如：外觀應無缺陷毀損	</string>
+		<key>設備安裝	</key>
+		<string>例如：牢固	</string>
+		<key>設備廠牌	</key>
+		<string>送審型錄：○○	</string>
+		<key>設備規格	</key>
+		<string>規範：○○	</string>
+	</dict>
+	<key>邊坡掛網噴植工程自主檢查表 </key>
+	<dict>
+		<key>噴植厚度</key>
+		<string>○cm</string>
+		<key>噴植基材</key>
+		<string>有機肥與土壤之比例按1:○拌合</string>
+		<key>噴植指定草種</key>
+		<string>例如：百慕達草:○g/m2</string>
+		<key>施工坡面整理</key>
+		<string>例如：平順無鬆動土石及凸出物</string>
+		<key>施工後環境整理</key>
+		<string>例如：環境整潔度</string>
+		<key>稻草蓆覆蓋</key>
+		<string>○﹫○m2支ㄇ型○ψ鍍鋅鐵絲固定並重疊</string>
+		<key>菱形鐵絲網規格</key>
+		<string>鐵絲網ψ○mm、網目○cmｘ○cm</string>
+		<key>菱形鐵絲網鋪設</key>
+		<string>平整於坡面，並確實拉緊</string>
+		<key>鉚釘規格、長度及間距</key>
+		<string>鉚釘規格：○ψ、長度:○cm、間距:○m2/支</string>
+	</dict>
+	<key>配(分)電箱工程安裝自主檢查表</key>
+	<dict>
+		<key>BKR及SW 	</key>
+		<string>例如：ON/OFF測試	</string>
+		<key>BKR的性能測試	</key>
+		<string>例如：TRIP/RESET測試</string>
+		<key>NFB漏電段路器之規格、數量	</key>
+		<string>&quot;規格:○○
+數量:○○&quot;	</string>
+		<key>契約規格尺寸○○mm鋼板製成	</key>
+		<string>&quot;例如：落地型：RC基座，並以螺絲固定牢固
+      壁掛式：須嵌入牆內&quot;	</string>
+		<key>完成後箱體	</key>
+		<string>例如：不得有它異物。	</string>
+		<key>接地線	</key>
+		<string>圖說○號，接地線連接	</string>
+		<key>接配管管口	</key>
+		<string>例如：鐵管：加護圈；
+      PVC管：喇叭口</string>
+		<key>無熔絲開關匯流排	</key>
+		<string>例如：設計單線圖規定逐項檢查	</string>
+		<key>盤內結線迴路的編排	</key>
+		<string>例如：設計單線圖規定逐項檢查	</string>
+		<key>盤銘牌及迴路編號	</key>
+		<string>盤銘牌及迴路編號	</string>
+		<key>箱體接地	</key>
+		<string>例如：有接地	</string>
+		<key>結線之線徑、迴路</key>
+		<string>線徑:○○、迴路:○○	</string>
+		<key>絕緣測試</key>
+		<string>＞○MΩ	</string>
+		<key>配(分)電箱廠牌	</key>
+		<string>廠牌○○、規格○○	</string>
+		<key>配電盤安裝	</key>
+		<string>例如：穩固	</string>
+		<key>電箱體規格尺寸	</key>
+		<string>契約規格尺寸○○mm鋼板製成	</string>
+	</dict>
+	<key>配線佈纜施工自主檢查表</key>
+	<dict>
+		<key>實施電氣性能試驗	</key>
+		<string>例如：高壓電纜或低壓電線之絕緣測試	</string>
+		<key>材料定	</key>
+		<string>審廠牌○○、規格○○</string>
+		<key>標識種類○○	</key>
+		<string>例如：不可在管內連接。	</string>
+		<key>穿線時,導線加以標識</key>
+		<string>標識種類○○	</string>
+		<key>纜線長度	</key>
+		<string>測量長度○○	</string>
+		<key>配線佈纜前置措	</key>
+		<string>例如：確認導線管或電纜架完成	</string>
+		<key>開始佈線佈纜前材料準備	</key>
+		<string>種類○○數量○○	</string>
+	</dict>
+	<key>鋁門窗工程自主檢查表</key>
+	<dict>
+		<key>固定PVC壓條數量</key>
+		<string>○○</string>
+		<key>固定窗玻璃填塞矽利康是否   確實平整</key>
+		<string>例如：不得有露縫矽利康是否確實平整</string>
+		<key>外牆料注意出入線</key>
+		<string>例如：統一</string>
+		<key>數量尺寸</key>
+		<string>契約圖說○號：○○個○○CM</string>
+		<key>注意目墊塊崁縫</key>
+		<string>例如：清除</string>
+		<key>玻璃表面污染</key>
+		<string>例如：乾淨</string>
+		<key>現場材料</key>
+		<string>例如：集中安排，以角材墊高</string>
+		<key>立框水平、垂直及固定</key>
+		<string>每片@○○cm以內</string>
+		<key>落地門用PVC、蓋版維護、鋁門窗邊粉刷排水坡、紗門窗之溝槽處、鋁門窗塞水路、玻璃安裝</key>
+		<string>例如：交接處不得有露縫矽利康</string>
+		<key>製作施工計劃及施工圖</key>
+		<string>施工條件及檢查標準值○○</string>
+		<key>配合泥作灰誌來放樣</key>
+		<string>每片@○○cm以內</string>
+		<key>防水坡</key>
+		<string>＜1/○</string>
+	</dict>
+	<key>鋼板樁打設作業自主檢查表</key>
+	<dict>
+		<key>傾斜、道路沉陷觀測</key>
+		<string>例如：沉陷＜○mm</string>
+		<key>剩餘材料清除及現場整理</key>
+		<string>例如：清除</string>
+		<key>地表淺層的舊基礎或障礙物</key>
+		<string>例如：試挖、導溝施做</string>
+		<key>所有支撐構件間，及構件與支撐面間是否緊密</key>
+		<string>例如：無縫隙</string>
+		<key>打設後鋼板樁頂高低差</key>
+		<string>○CM內</string>
+		<key>拔樁檢查</key>
+		<string>例如：填砂並灌水填滿間隙</string>
+		<key>支撐系統其安裝是否干擾其他施工作業</key>
+		<string>例如：協調工項</string>
+		<key>設計圖位置放樣</key>
+		<string>座標      </string>
+		<key>鋼板樁型式是否依設計圖說</key>
+		<string>例如：NKSP3</string>
+		<key>鋼板樁打設是否垂直不得有偏斜打入經核准之深度</key>
+		<string>垂直度○%</string>
+		<key>鋼板樁拆裝時交通維持</key>
+		<string>例如：安全警示、派專人指揮交通</string>
+		<key>鋼板樁施工與法線誤差</key>
+		<string>＜○CM</string>
+		<key>鋼板樁施打時其接槽是否緊密</key>
+		<string>例如：接槽否緊密</string>
+		<key>鋼板樁長度是否足夠</key>
+		<string>＞○M</string>
+	</dict>
+	<key>鋼筋工程自主檢查表</key>
+	<dict>
+		<key>箍筋外觀</key>
+		<string>封閉式加工○○度</string>
+		<key>繫筋外觀</key>
+		<string>兩端式加工○○度</string>
+		<key>鋼筋保護層厚度</key>
+		<string>○公分</string>
+		<key>鋼筋加工彎鉤角度</key>
+		<string>○○度</string>
+		<key>鋼筋加工彎鉤長度</key>
+		<string>○倍鋼筋直徑</string>
+		<key>鋼筋彎鉤之位置</key>
+		<string>例如：交錯排列…</string>
+		<key>鋼筋搭接位置</key>
+		<string>例如：應力小○○、交錯搭接○…</string>
+		<key>鋼筋搭接長度</key>
+		<string>○公分</string>
+		<key>鋼筋組立間距</key>
+		<string>主筋○○公分、箍筋○○公分</string>
+		<key>鋼筋綁紮</key>
+		<string>以＃○鐵絲○步綁紮且無鬆動</string>
+		<key>鋼筋號數</key>
+		<string>主筋＃○、副筋＃○</string>
+		<key>鋼筋鏽蝕、清潔、無油垢</key>
+		<string>例如：無繡蝕…</string>
+		<key>鋼筋隔間器、墊塊之配置</key>
+		<string>間距○公尺</string>
+		<key>預埋物固定</key>
+		<string>例如：固定…</string>
+		<key>預留筋配置之間距、號數</key>
+		<string>○○公分、＃○</string>
+		<key>（開口角隅處）鋼筋補強</key>
+		<string>＃○@○支</string>
+	</dict>
+	<key>鋼筋續接器自主檢查表</key>
+	<dict>
+		<key>#○扭力值	</key>
+		<string>＞○N-M	</string>
+		<key>接合使用工具	</key>
+		<string>例如：扭力板手	</string>
+		<key>接合鋼筋螺紋長度	</key>
+		<string>&quot;續接器長度○○
+接合鋼筋螺紋長度○○&quot;	</string>
+		<key>續接器位置排列	</key>
+		<string>例如：錯開60cm以上	</string>
+		<key>續接器螺紋外觀	</key>
+		<string>例如：乾淨未附著油污	</string>
+		<key>續接施工前接合部保護	</key>
+		<string>例如：止水保護套加以保護	</string>
+		<key>螺牙總長	</key>
+		<string>○mm	</string>
+		<key>試体取樣支數	</key>
+		<string>每○支抽1支	</string>
+	</dict>
+	<key>鋼軌樁施工自主檢查表</key>
+	<dict>
+		<key>打設垂直度控制</key>
+		<string>○度</string>
+		<key>拔樁時機</key>
+		<string>例如：試體達設計強度○○</string>
+		<key>拔樁空隙填縫</key>
+		<string>例如：以填砂並灌水填滿空隙</string>
+		<key>排列間距</key>
+		<string>＠○㎝±○㎝</string>
+		<key>襯板崁入</key>
+		<string>例如：不可跳格</string>
+		<key>貫入深度</key>
+		<string>頂端預留高程○㎝</string>
+		<key>鋼軌樁外觀</key>
+		<string>無折彎扭曲變形</string>
+		<key>鋼軌樁長度</key>
+		<string>＞○Ｍ</string>
+	</dict>
+	<key>鐵捲門工程施工自主檢查表</key>
+	<dict>
+		<key>出線盒收邊</key>
+		<string>例如：面板覆蓋、美觀無縫</string>
+		<key>啟動操作</key>
+		<string>平例如：滑順暢、噪音＜○分貝</string>
+		<key>固定鐵件範圍</key>
+		<string>例如：無超出粉刷面</string>
+		<key>導軌</key>
+		<string>例如：堅實嵌入線槽，水泥砂漿填滿空隙、均勻塗佈潤滑</string>
+		<key>捲箱蓋</key>
+		<string>例如：全包式覆蓋</string>
+		<key>捲軸</key>
+		<string>例如：確實套入軸承並保持水平</string>
+		<key>放樣</key>
+		<string>契約圖說○號：○○</string>
+		<key>材質</key>
+		<string>例如：不銹鋼</string>
+		<key>焊接點</key>
+		<string>例如：無損壞或無污染門軌</string>
+		<key>膨脹螺絲固定方式</key>
+		<string>深○㎝＠○㎝一處</string>
+		<key>門片接合</key>
+		<string>例如：良好密合</string>
+		<key>門片接合外觀</key>
+		<string>例如：無脫落凹陷破損生銹</string>
+		<key>門片插入導軌深度</key>
+		<string>例如：○㎝</string>
+		<key>預留門孔寬高</key>
+		<string>○cm±○mm</string>
+		<key>馬達廠牌規格</key>
+		<string>核定內容             </string>
+	</dict>
+	<key>開挖作業自主檢查表</key>
+	<dict>
+		<key>基地放樣與基準點</key>
+		<string>例如：圗說線型○○、座標○○</string>
+		<key>挖土機旋轉半徑、開挖</key>
+		<string>例如：安全警示人員○人</string>
+		<key>排水、抽水設備</key>
+		<string>例如：抽水機組○台</string>
+		<key>排水狀況</key>
+		<string>例如：無積水</string>
+		<key>施作完成護欄</key>
+		<string>例如：復原</string>
+		<key>棄土搬運周邊路面</key>
+		<string>例如：隨時清除</string>
+		<key>水、電、瓦斯管線</key>
+		<string>例如：試挖、管線會勘</string>
+		<key>清除、整平及邊溝疏濬</key>
+		<string>例如：清除、無淤積</string>
+		<key>路線、坡度、高程、橫斷面是否分層填築</key>
+		<string>○CM為一層</string>
+		<key>開挖四周上下設備</key>
+		<string>例如：爬梯</string>
+		<key>開挖土方時</key>
+		<string>例如：安全警示指揮交通○人</string>
+		<key>開挖底面</key>
+		<string>高程○±○mm</string>
+		<key>高程、橫斷面</key>
+		<string>例如：水準儀檢測EL：○○</string>
+	</dict>
+	<key>防水工程施工作業自主檢查表</key>
+	<dict>
+		<key>PU厚度</key>
+		<string>查驗厚度，地坪塗佈式PU防水膜(含牆面H=100)T=○mm，其餘○mm</string>
+		<key>剩料</key>
+		<string>例如：清運乾淨</string>
+		<key>完成後測試</key>
+		<string>試水○小時</string>
+		<key>搭接處與四周收邊</key>
+		<string>例如：無空心後再封膠</string>
+		<key>搭接長度及位置</key>
+		<string>搭接長度需大於○cm且錯開</string>
+		<key>施作位置遇排水管</key>
+		<string>一次施作且須深入排水管內○cm±○</string>
+		<key>施作面檢視</key>
+		<string>表面濕度＜○</string>
+		<key>施作面清潔</key>
+		<string>例如：無油漬與粉塵</string>
+		<key>施作面的完整</key>
+		<string>例如：高低○±○mm</string>
+		<key>施作高度</key>
+		<string>施工前先彈墨線高度為：○cm±○</string>
+		<key>施工位置</key>
+		<string>契約圖說○號：○○需清潔乾淨</string>
+		<key>施工材料及配比</key>
+		<string>契約規定○○</string>
+		<key>結構體乾燥</key>
+		<string>至少○天晴天</string>
+		<key>落水頭處理</key>
+		<string>例如：包入管內</string>
+		<key>落水頭處處理</key>
+		<string>例如：修整成為最低點</string>
+		<key>隔熱材搭接寬度</key>
+		<string>至少○公分</string>
+	</dict>
+	<key>集水井作業自主檢查表</key>
+	<dict>
+		<key>尺寸</key>
+		<string>W(井寬)=○cm±○mm
+H(井深)=○cm±○mm
+t(牆厚)=○cm±○mm</string>
+		<key>模板組立情況</key>
+		<string>穩固、平直、曲線平順</string>
+		<key>滯洪深度</key>
+		<string>h&gt;○cm</string>
+		<key>箍筋組立間距</key>
+		<string>#○@○cm (頂部)</string>
+		<key>鋼筋組立情況</key>
+		<string>鐵絲綁紮牢固，錯排，搭接處避免在同一斷面上</string>
+		<key>鋼筋組立間距</key>
+		<string>＃○@○cm(井身、底部、頂部)</string>
+		<key>點筋組立間距</key>
+		<string>#○@○cm(井身、頂部、溝底)</string>
+	</dict>
+	<key>電信管路配管自主檢查表</key>
+	<dict>
+		<key>出線匣安裝位置</key>
+		<string>依設計圖○號，位置○○	</string>
+		<key>出線匣接配管管口	</key>
+		<string>例如：管口須拓喇叭口、管口光滑	</string>
+		<key>出線匣材質厚度	</key>
+		<string>使用熱浸鍍鋅厚度○公釐	</string>
+		<key>各樓層之配電箱位置	</key>
+		<string>施工圖○號，位置：○</string>
+		<key>各樓層之配電箱接地	</key>
+		<string>施工圖○號，接地：○	</string>
+		<key>室內各出線口位置	</key>
+		<string>施工圖○號，位置：○	</string>
+		<key>核對數量	</key>
+		<string>數量：○○ 	</string>
+		<key>檢查電壓	</key>
+		<string>電壓：○V	</string>
+		<key>設備外觀	</key>
+		<string>例如：完整	</string>
+		<key>設備廠牌	</key>
+		<string>設備廠牌○、型號○、型式○	</string>
+		<key>配管固定及銜接	</key>
+		<string>例如：管銜接須用接合劑牢固	</string>
+		<key>配管廠牌及管徑	</key>
+		<string>契約規定廠牌○及管徑○	</string>
+	</dict>
+	<key>電器設備施工作業自主檢查表</key>
+	<dict>
+		<key>分電箱及無熔絲斷路器(NFB)（低壓）	</key>
+		<string>位置○,高度○	</string>
+		<key>接地系統(避雷針接地電阻＜10Ω，電信接地電阻＜15Ω(有電信室＜5Ω)，資訊接地電阻＜5Ω，避雷器接地電阻值＜10Ω，電氣接地電阻＜10Ω)	</key>
+		<string>接地系統(避雷針接地電阻＜10Ω，電信接地電阻＜15Ω(有電信室＜5Ω)，資訊接地電阻＜5Ω，避雷器接地電阻值＜10Ω，電氣接地電阻＜10Ω)	</string>
+		<key>材料或設備型錄數量	</key>
+		<string>廠牌：○○、數量；○○	</string>
+		<key>漏電斷路器(ELB)	</key>
+		<string>廠牌○及規格○	</string>
+		<key>發電機組及自動切換開關	</key>
+		<string>例如：發電機安裝後試車	</string>
+		<key>變壓器</key>
+		<string>例如：須安裝妥當,其接線端子須以絕緣物隔離避免人員接觸發生危險	</string>
+		<key>配電用電線	</key>
+		<string>例如：電線除在接線盒內連接外,不可在管內連接	</string>
+		<key>配電盤</key>
+		<string>箱體規格尺寸○○及盤內各項器材○    	</string>
+	</dict>
+	<key>電氣管路配管自主檢查表</key>
+	<dict>
+		<key>厚鋼導線管接地	</key>
+		<string>例如：以電纜線接地	</string>
+		<key>吊架安裝</key>
+		<string>契約規定：○○	</string>
+		<key>安裝長度	</key>
+		<string>設計：○○	</string>
+		<key>導線管、拉、接線箱編號	</key>
+		<string>規定○○	</string>
+		<key>導線管之固定	</key>
+		<string>每○公尺固定一處	</string>
+		<key>按管末端安裝管塞	</key>
+		<string>依規範書第16132章：○○	</string>
+		<key>接線箱是設置	</key>
+		<string>設計規定○○	</string>
+		<key>暗管出口位置及高程	</key>
+		<string>位置○○、高程○○	</string>
+		<key>管支架在焊接處作防銹處裡	</key>
+		<string>依規範書第16132章：○○	</string>
+		<key>電氣導線管管材規格	</key>
+		<string>契約規定：○○	</string>
+		<key>震動設備與導線管連接	</key>
+		<string>例如：使用軟導線管	</string>
+	</dict>
+	<key>電氣配管施工自主檢查表</key>
+	<dict>
+		<key>出線匣接配管口	</key>
+		<string>&quot;例如：金屬管：須加護圈或使用盒接
+例如：PVC管：須擴喇叭口或使用盒接&quot;	</string>
+		<key>廠牌及管徑	</key>
+		<string>廠牌○○、管徑○○、管厚○○	</string>
+		<key>施設位置	</key>
+		<string>&quot;施工圖○號
+施設位置○與高度○&quot;	</string>
+		<key>樓板配管	</key>
+		<string>例如：管路重疊高度＜混凝土保護層。	</string>
+		<key>管之彎曲半徑	</key>
+		<string>不得小於管子內徑之○倍	</string>
+		<key>設計圖之內容	</key>
+		<string>施工重點：○○	</string>
+		<key>配管固定及銜接	</key>
+		<string>選擇合適銜接固定方式：○○	</string>
+	</dict>
+	<key>電纜線架施工安裝自主檢查表</key>
+	<dict>
+		<key>使用材料是否符合	</key>
+		<string>廠牌○○、型號○○	</string>
+		<key>固定吊架電纜	</key>
+		<string>規格○○、間距每○m架設一個	</string>
+		<key>廠牌○○、型號○○	</key>
+		<string>圖說高度○○	</string>
+		<key>有否有接地系統	</key>
+		<string>圖說○，配置接地線○○         	</string>
+		<key>設計圖之內容	</key>
+		<string>施工重點○○	</string>
+		<key>防火區劃貫穿建築物	</key>
+		<string>使用廠牌○○阻燃材料	</string>
+		<key>電纜線架	</key>
+		<string>例如：無尖銳邊端、踞齒狀或突出物	</string>
+		<key>電纜轉彎	</key>
+		<string>使用○○型配件         	</string>
+	</dict>
+	<key>預壘樁工程自主檢查表</key>
+	<dict>
+		<key>放樣</key>
+		<string>依圖面配置</string>
+		<key>施工場地面保持平整</key>
+		<string>例如：以挖土機初步刮平</string>
+		<key>螺旋鑽之轉盤中心與樁心</key>
+		<string>容許偏差○cm</string>
+		<key>螺旋鑽桿垂直下鑽</key>
+		<string>垂直度1/○</string>
+		<key>製漿機之水灰比</key>
+		<string>水泥○kg/細砂○kg/水○kg</string>
+		<key>規劃材料場地及鋼筋加工之出入動線</key>
+		<string>例如：依場地配置圖設置</string>
+		<key>鋼筋籠之主筋及箍筋之口徑、根數、間距</key>
+		<string>○-#○主筋 #○箍筋@○</string>
+		<key>鋼筋籠之主筋及箍筋綁紮</key>
+		<string>以#○或#○鐵線</string>
+		<key>鋼筋籠垂直放入鑽孔</key>
+		<string>垂直度1/○</string>
+		<key>預壘樁之口徑及定位</key>
+		<string>φ=○cm±○</string>
+		<key>預壘樁之施作錯開順序</key>
+		<string>○支施工</string>
+		<key>預壘樁之深度</key>
+		<string>○M±○</string>
+		<key>預壘樁砂漿取樣</key>
+		<string>設計強度○kg/cm2</string>
+	</dict>
+	<key>鷹架施工自主檢查表</key>
+	<dict>
+		<key>拆鋼管鷹架前</key>
+		<string>例如：確認結構已達安全強度</string>
+		<key>拆除支撐場所及通道</key>
+		<string>例如：禁止閒人進入</string>
+		<key>施工人員裝備</key>
+		<string>例如：使用防墜落裝置</string>
+		<key>最底層鋼管鷹架底部</key>
+		<string>例如：裝設高低調整器，無鬆動現象</string>
+		<key>鋼管鷹架上下設施</key>
+		<string>例如：安裝上下扶手</string>
+		<key>鋼管鷹架於基地上放樣位置</key>
+		<string>施工圖說○○</string>
+		<key>鋼管鷹架架設位置</key>
+		<string>例如：基地密實、排水良好</string>
+		<key>鋼管鷹架系統水平桿</key>
+		<string>例如：使用鋼鐵製之中空圓管</string>
+		<key>鋼管鷹架與水平桿相連位置</key>
+		<string>例如：採用萬向扣環、90度固定扣環相接</string>
+		<key>鋼管鷹架頂部</key>
+		<string>例如：裝設U型調整器</string>
+		<key>防護網或帆布</key>
+		<string>例如：固定牢固</string>
+	</dict>
+</dict>
+</plist>
